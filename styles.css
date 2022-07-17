@@ -1,0 +1,16 @@
+h1{
+    color: lightblue;
+    font-size: 48px;
+}
+
+p{
+    color: blueviolet;
+    font-size: 24px;
+}
+
+button{
+    background-color: gray;
+    color: aqua;
+    padding: 12px 0;
+    font-size: 24px;
+}
